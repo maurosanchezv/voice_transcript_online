@@ -32,5 +32,3 @@ Notas
 Asegúrate de tener conexión a Internet, ya que el reconocimiento de voz utiliza la API de Google.
 El programa permite escribir el texto transcrito en cualquier lugar habilitando la opción correspondiente.
 ```
-# voice_transcript_online
-# voice_transcript_online
